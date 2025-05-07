@@ -1,9 +1,4 @@
-lirik lagu balonku
-balonku ada lima
-rupa-rupa warnanya
-hijau,kuning,kelabu, merah muda dan biru
-meletus balon hijau
-dooorrrr 
-hatiku sangat kacau
-balonku tinggal empat
-kupegang erat-erat
+Beli buah di pasar minggu 
+Jangan lupa membeli duku 
+Jangan lupa olahraga selalu 
+Agar bahagia hadir selalu
