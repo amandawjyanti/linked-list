@@ -18,13 +18,13 @@ public class Main {
            list.insertAfter(nodeBudi, "Eka");
         }
         
-        // Print the list after insertAfter
+// Print the list after insertAfter
         System.out.println("\nLinked List after inserting Eka after Budi:");
         list.printList(); // Expected: Andi -> Budi -> Eka -> Citra -> Dewi -> null
 
         // Delete a node
         list.deleteNode("Citra");
-
+        
         // Print the list after deletion
         System.out.println("\nLinked List after deleting Citra:");
         list.printList(); // Expected: Andi -> Budi -> Eka -> Dewi -> null
